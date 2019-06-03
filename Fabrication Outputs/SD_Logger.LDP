@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Home\SD_Logger\PCB\SD_Logger.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=sd_logger-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=sd_logger-slotholes.txt|DrillLayers=gtl,gbl
