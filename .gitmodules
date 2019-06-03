@@ -1,0 +1,9 @@
+[submodule "FatFs"]
+	path = FatFs
+	url = git@github.com:IvanOrfanidi/FatFs.git
+[submodule "STM32F10x_StdPeriph_Lib"]
+	path = STM32F10x_StdPeriph_Lib
+	url = git@github.com:IvanOrfanidi/STM32F10x_StdPeriph_Lib.git
+[submodule "STM32F10x_Drivers_Lib"]
+	path = STM32F10x_Drivers_Lib
+	url = git@github.com:IvanOrfanidi/STM32F10x_Drivers_Lib.git
