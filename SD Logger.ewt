@@ -2426,19 +2426,19 @@
     <group>
         <name>STM32F10x_Drivers_Lib</name>
         <file>
-            <name>$PROJ_DIR$\..\STM32F10x_Drivers_Lib\src\exti.cpp</name>
+            <name>$PROJ_DIR$\STM32F10x_Drivers_Lib\src\exti.cpp</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\STM32F10x_Drivers_Lib\src\gpio.cpp</name>
+            <name>$PROJ_DIR$\STM32F10x_Drivers_Lib\src\gpio.cpp</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\STM32F10x_Drivers_Lib\src\nvic.cpp</name>
+            <name>$PROJ_DIR$\STM32F10x_Drivers_Lib\src\nvic.cpp</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\STM32F10x_Drivers_Lib\src\rtc.cpp</name>
+            <name>$PROJ_DIR$\STM32F10x_Drivers_Lib\src\rtc.cpp</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\STM32F10x_Drivers_Lib\src\uart.cpp</name>
+            <name>$PROJ_DIR$\STM32F10x_Drivers_Lib\src\uart.cpp</name>
         </file>
     </group>
     <group>
