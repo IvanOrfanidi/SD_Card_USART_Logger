@@ -44,8 +44,6 @@ Main::Main() : _Drv(NUM_DRV), _Log(_Drv), _Disk(_Drv)
     // Initialisation System Timer
     System::InitSysTick(1000);
 
-    // Initialisation Backup
-    Board::InitBKP();
 
     // Initialisation Led
     Board::InitGPIO();
